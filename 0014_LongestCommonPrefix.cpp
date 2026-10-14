@@ -1,3 +1,4 @@
+// fixing space complexity mistake in previous commit
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
